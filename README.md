@@ -31,7 +31,7 @@ selecionando caracteres aleatórios de acordo com o tamanho definido pelo usuár
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Pedrofcaldas07/Gerador-de-senha-aleatoria-mobile.git
+git clone https://github.com/Pedrofcaldas07/Gerador-de-senha-aleatoria-mobile
 
 # Entre na pasta
 cd Gerador-de-senha-aleatoria-mobile
