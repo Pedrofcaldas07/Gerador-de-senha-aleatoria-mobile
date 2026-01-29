@@ -6,7 +6,7 @@ O usuário tambem tem acesso a uma tela com todas as senhas no qual ele pode apa
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologia
 - React Native
 - Expo
 - JavaScript
