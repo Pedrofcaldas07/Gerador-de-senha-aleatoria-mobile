@@ -38,8 +38,6 @@ cd Gerador-de-senha-aleatoria-mobile
 
 # Instale as dependências
 npm install
-# ou
-yarn install
 
 # Execute o projeto
 npx expo start
