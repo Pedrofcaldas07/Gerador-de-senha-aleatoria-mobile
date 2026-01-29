@@ -6,7 +6,7 @@ O usuário tambem tem acesso a uma tela com todas as senhas no qual ele pode apa
 
 ---
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 - React Native
 - Expo
 - JavaScript
@@ -27,7 +27,7 @@ selecionando caracteres aleatórios de acordo com o tamanho definido pelo usuár
 - Expo CLI instalado
 - Git
 
-  ### Passo a passo
+### Passo a passo
 
 ```bash
 # Clone o repositório
